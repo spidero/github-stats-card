@@ -15,7 +15,7 @@
 </style>
 <rect x="0.5" y="0.5" width="494" height="214" rx="6" fill="#0d1117" stroke="#30363d"/>
 <text x="25" y="35" class="title">Piotr Skwarna's Streak</text>
-<g class="fade" style="animation-delay:150ms"><text x="85" y="98" text-anchor="middle" class="big">1744</text><text x="85" y="150" text-anchor="middle" class="label">Total contributions</text><text x="85" y="168" text-anchor="middle" class="small">Jul 5, 2012 - Present</text></g><g class="fade" style="animation-delay:400ms"><text x="410" y="98" text-anchor="middle" class="big">25 days</text><text x="410" y="150" text-anchor="middle" class="label">Longest streak</text><text x="410" y="168" text-anchor="middle" class="small">Sep 14, 2026 - Oct 8, 2026</text></g><line x1="166" y1="60" x2="166" y2="175" stroke="#30363d"/><line x1="328" y1="60" x2="328" y2="175" stroke="#30363d"/><style>
+<g class="fade" style="animation-delay:150ms"><text x="85" y="98" text-anchor="middle" class="big">1746</text><text x="85" y="150" text-anchor="middle" class="label">Total contributions</text><text x="85" y="168" text-anchor="middle" class="small">Jul 5, 2012 - Present</text></g><g class="fade" style="animation-delay:400ms"><text x="410" y="98" text-anchor="middle" class="big">25 days</text><text x="410" y="150" text-anchor="middle" class="label">Longest streak</text><text x="410" y="168" text-anchor="middle" class="small">Sep 14, 2026 - Oct 8, 2026</text></g><line x1="166" y1="60" x2="166" y2="175" stroke="#30363d"/><line x1="328" y1="60" x2="328" y2="175" stroke="#30363d"/><style>
   .ring247x94 { stroke-dasharray: 226.2; stroke-dashoffset: 0.0; animation: ring247x94 1.2s ease-out backwards; }
   @keyframes ring247x94 { from { stroke-dashoffset: 226.2; } }
 </style>
