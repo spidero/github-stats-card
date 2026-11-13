@@ -15,7 +15,7 @@
 </style>
 <rect x="0.5" y="0.5" width="494" height="214" rx="6" fill="#22272e" stroke="#444c56"/>
 <text x="25" y="35" class="title">Piotr Skwarna's Streak</text>
-<g class="fade" style="animation-delay:150ms"><text x="85" y="98" text-anchor="middle" class="big">1752</text><text x="85" y="150" text-anchor="middle" class="label">Total contributions</text><text x="85" y="168" text-anchor="middle" class="small">Jul 5, 2012 - Present</text></g><g class="fade" style="animation-delay:400ms"><text x="410" y="98" text-anchor="middle" class="big">25 days</text><text x="410" y="150" text-anchor="middle" class="label">Longest streak</text><text x="410" y="168" text-anchor="middle" class="small">Sep 14, 2026 - Oct 8, 2026</text></g><line x1="166" y1="60" x2="166" y2="175" stroke="#444c56"/><line x1="328" y1="60" x2="328" y2="175" stroke="#444c56"/><style>
+<g class="fade" style="animation-delay:150ms"><text x="85" y="98" text-anchor="middle" class="big">1785</text><text x="85" y="150" text-anchor="middle" class="label">Total contributions</text><text x="85" y="168" text-anchor="middle" class="small">Jul 5, 2012 - Present</text></g><g class="fade" style="animation-delay:400ms"><text x="410" y="98" text-anchor="middle" class="big">25 days</text><text x="410" y="150" text-anchor="middle" class="label">Longest streak</text><text x="410" y="168" text-anchor="middle" class="small">Sep 14, 2026 - Oct 8, 2026</text></g><line x1="166" y1="60" x2="166" y2="175" stroke="#444c56"/><line x1="328" y1="60" x2="328" y2="175" stroke="#444c56"/><style>
   .ring247x94 { stroke-dasharray: 226.2; stroke-dashoffset: 0.0; animation: ring247x94 1.2s ease-out backwards; }
   @keyframes ring247x94 { from { stroke-dashoffset: 226.2; } }
 </style>
@@ -23,5 +23,5 @@
 <circle class="ring247x94" cx="247" cy="94" r="36" fill="none" stroke="#6cb6ff" stroke-width="6" stroke-linecap="round" transform="rotate(-90 247 94)"/>
 <text x="247" y="102" text-anchor="middle" class="big">25</text>
 <g class="fade" style="animation-delay:250ms"><text x="247" y="150" text-anchor="middle" class="label" style="fill:#6cb6ff">Current streak</text><text x="247" y="168" text-anchor="middle" class="small">Oct 19, 2026 - Nov 12, 2026</text></g>
-<text x="470" y="203" text-anchor="end" class="small">updated 2026-11-12</text><a href="https://github.com/spidero/github-stats-card" target="_blank"><text x="25" y="203" class="small credit">spidero/github-stats-card</text></a>
+<text x="470" y="203" text-anchor="end" class="small">updated 2026-11-13</text><a href="https://github.com/spidero/github-stats-card" target="_blank"><text x="25" y="203" class="small credit">spidero/github-stats-card</text></a>
 </svg>
