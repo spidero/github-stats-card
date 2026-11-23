@@ -67,22 +67,54 @@
     "2026-11-14": {
       "count": 88,
       "uniques": 45
+    },
+    "2026-11-15": {
+      "count": 6,
+      "uniques": 5
+    },
+    "2026-11-16": {
+      "count": 27,
+      "uniques": 17
+    },
+    "2026-11-17": {
+      "count": 15,
+      "uniques": 10
+    },
+    "2026-11-18": {
+      "count": 52,
+      "uniques": 27
+    },
+    "2026-11-19": {
+      "count": 58,
+      "uniques": 29
+    },
+    "2026-11-20": {
+      "count": 34,
+      "uniques": 17
+    },
+    "2026-11-21": {
+      "count": 12,
+      "uniques": 9
+    },
+    "2026-11-22": {
+      "count": 10,
+      "uniques": 3
     }
   },
   "referrers": [
     {
-      "count": 18,
+      "count": 25,
       "referrer": "github.com",
-      "uniques": 2
+      "uniques": 3
+    },
+    {
+      "count": 3,
+      "referrer": "skwarna.eu",
+      "uniques": 1
     },
     {
       "count": 2,
       "referrer": "Google",
-      "uniques": 1
-    },
-    {
-      "count": 1,
-      "referrer": "skwarna.eu",
       "uniques": 1
     }
   ],
@@ -156,6 +188,38 @@
       "uniques": 2
     },
     "2026-11-14": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-15": {
+      "count": 6,
+      "uniques": 2
+    },
+    "2026-11-16": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-17": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-18": {
+      "count": 17,
+      "uniques": 1
+    },
+    "2026-11-19": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-11-20": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-21": {
+      "count": 1,
+      "uniques": 1
+    },
+    "2026-11-22": {
       "count": 0,
       "uniques": 0
     }
