@@ -23,5 +23,5 @@
 <circle class="ring410x127" cx="410" cy="127" r="50" fill="none" stroke="#7aa2ff" stroke-width="8" stroke-linecap="round" transform="rotate(-90 410 127)"/>
 <text x="410" y="131" text-anchor="middle" class="big">1897</text>
 <text x="410" y="147" text-anchor="middle" class="small">contributions</text><text x="410" y="159" text-anchor="middle" class="small">last year</text>
-<text x="470" y="222" text-anchor="end" class="small">updated 2026-11-26</text><a href="https://github.com/spidero/github-stats-card" target="_blank"><text x="25" y="222" class="small credit">spidero/github-stats-card</text></a>
+<text x="470" y="222" text-anchor="end" class="small">updated 2026-11-27</text><a href="https://github.com/spidero/github-stats-card" target="_blank"><text x="25" y="222" class="small credit">spidero/github-stats-card</text></a>
 </svg>

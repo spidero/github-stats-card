@@ -23,5 +23,5 @@
 <circle class="ring247x94" cx="247" cy="94" r="36" fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" transform="rotate(-90 247 94)"/>
 <text x="247" y="102" text-anchor="middle" class="big">39</text>
 <g class="fade" style="animation-delay:250ms"><text x="247" y="150" text-anchor="middle" class="label" style="fill:#111111">Current streak</text><text x="247" y="168" text-anchor="middle" class="small">Oct 19, 2026 - Nov 26, 2026</text></g>
-<text x="470" y="203" text-anchor="end" class="small">updated 2026-11-26</text><a href="https://github.com/spidero/github-stats-card" target="_blank"><text x="25" y="203" class="small credit">spidero/github-stats-card</text></a>
+<text x="470" y="203" text-anchor="end" class="small">updated 2026-11-27</text><a href="https://github.com/spidero/github-stats-card" target="_blank"><text x="25" y="203" class="small credit">spidero/github-stats-card</text></a>
 </svg>
