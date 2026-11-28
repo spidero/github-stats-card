@@ -271,6 +271,16 @@ python3 preview.py                           # visual check of every card x them
 Tests run on every push and pull request. Bug reports and ideas: use the
 [issue forms](https://github.com/spidero/github-stats-card/issues/new/choose).
 
+## Support
+
+Profile Stats Cards is free and open source. If your profile looks better with it, you can support
+its development:
+
+- [GitHub Sponsors](https://github.com/sponsors/spidero)
+- [PayPal](https://paypal.me/spidero)
+
+Support is a voluntary donation and does not buy features or priority.
+
 ## License
 
 [MIT](LICENSE)
